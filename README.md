@@ -11,12 +11,12 @@ Check out corresponding Medium article:
 [Image Generator - Drawing Cartoons with Generative Adversarial Networks](https://towardsdatascience.com/image-generator-drawing-cartoons-with-generative-adversarial-networks-45e814ca9b6b)
 
 <h3 align="center">
-  <img src="assets/homer.gif">
+  <img src="homer.gif">
 </h3>
 
 ## DCGAN
 Network architecture by [Radford et al., 2015](https://arxiv.org/abs/1511.06434).
-<img src="assets/model.png">
+<img src="model.png">
 
 ## Training
 Visualization of training with the following hyperparameteres.
@@ -35,5 +35,5 @@ Visualization of training with the following hyperparameteres.
 
 These were the generated samples.
 
-<img src="assets/final_grid.png">
+<img src="final_grid.png">
 
